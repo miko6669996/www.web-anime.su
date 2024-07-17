@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anime</title>
+   <style>
+    body {
+      background-color: lightblue; #FF00FF
+    }
+   </style>
+  <link rel="stylesheet" href="style.css"> 
+</head>
+<body> 
+  <header>
+    <h1>Добро пожаловать на мой веб сайт!</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Главная страница</a></li>
+        <li><a href="#">О нас "АДМИНЕСТРАЦИЯ" этой веб страници.</a></li>
+        <li><a href="#">Контакты +77072128024</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+	  <h2>Главные новости </h1>
+      <p>Сегодня было совершено наподение банды мангуста.</p>
+    </section>
+
+    <section>
+      <h2> Hовости</h2>
+      <p>Времено отсуствуют</p>
+	  <a href="https://www.youtube.com">Youtube</a>
+	  <img src="index.html.gif" alt="">
+    </section>
+
+    <section>
+      <h2>Наши клиенты</h2>
+      <p>График работ для СТАЖЕРОВ и Сотрудников с 06:00-20:00.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Мой веб-сайт</p>
+  </footer>
+
+</body> <background-color: lightblue; / #8B00FF / >
+</html>
